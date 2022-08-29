@@ -17,7 +17,7 @@ A Simple System Information Viewer Programmed in Python
 
 ----------------------
 
-Python modules needed to install in order for program to work:
+Python modules needed to install in order for the program to work:
 
 Type these commands into Command Prompt or PowerShell
 
