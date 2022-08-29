@@ -1,6 +1,11 @@
 # PySpec
 A Simple System Information Viewer Programmed in Python
 
+<p align="center">
+<img align="center" src=".img/Screenshot 2022-08-29 155030.png" width="900">
+</p>
+
+
 **System Requirments:**
 
 **WARNING!** This program is designed for Microsoft Windows Operating Systems. Trying to run this program on a different Operating System such as Apple MacOS or Linux will result the program itself to crash and not open. 
