@@ -7,6 +7,8 @@ A System Information Viewer Programmed in Python
 
 **Operating System:** Windows 8.1 higher
 
+**Python Version: v3.90 or higher
+
 **Processor (CPU):** Intel Celeron 2nd Generation (Codenamed: Sandy Bridge) or higher
 
 **Storage Space:** 15 KB
@@ -14,10 +16,9 @@ A System Information Viewer Programmed in Python
 **Memory (RAM):** 75 MB
 
 
+----------------------
 
 
-
-Python v3.9.0 Recommended Microsoft Windows 8.1 or Greater needed for this version of python.
 
 Python Modules Needed to install in order for program to work.
 
