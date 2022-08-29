@@ -1,5 +1,5 @@
 # PySpec
-A Simple System Information Viewer Programmed in Python
+**A Simple System Information Viewer Programmed in Python**
 
 <p align="center">
 <img align="center" src=".img/Screenshot 2022-08-29 155030.png" width="900">
