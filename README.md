@@ -5,6 +5,8 @@
 <img align="center" src=".img/Screenshot 2022-08-29 155030.png" width="900">
 </p>
 
+**(c) Josip Dosen 2022**
+
 ----------------------
 
 **System Requirments:**
