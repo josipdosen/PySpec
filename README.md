@@ -1,5 +1,5 @@
 # PySpec
-A System Information Viewer Programmed in Python
+A Simple System Information Viewer Programmed in Python
 
 **System Requirments:**
 
@@ -15,16 +15,11 @@ A System Information Viewer Programmed in Python
 
 **Memory (RAM):** 75 MB
 
-
 ----------------------
 
+Python modules needed to install in order for program to work:
 
-
-Python Modules Needed to install in order for program to work.
-
-type these commands into command prompt or Windows PowerShell
-
-pip install platform
+Type these commands into Command Prompt or PowerShell
 
 pip install py-cpuinfo
 
@@ -32,12 +27,8 @@ pip install psutil
 
 pip install GPUtil
 
-pip install time
-
 pip install wmi
 
 pip install datetime
 
 pip install tabulate
-
-pip install import
