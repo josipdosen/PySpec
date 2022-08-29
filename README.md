@@ -7,7 +7,7 @@ A Simple System Information Viewer Programmed in Python
 
 **Operating System:** Windows 8.1 higher
 
-**Python Version: v3.90 or higher
+**Python Version:** v3.90 or higher
 
 **Processor (CPU):** Intel Celeron 2nd Generation (Codenamed: Sandy Bridge) or higher
 
