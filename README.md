@@ -22,10 +22,10 @@
 **Memory (RAM):** 75 MB
 
 ----------------------
+**Type these commands into Command Prompt or PowerShell**
 
 Python modules needed to install in order for the program to work:
 
-Type these commands into Command Prompt or PowerShell
 
 pip install py-cpuinfo
 
