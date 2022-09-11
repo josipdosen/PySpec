@@ -1,4 +1,4 @@
-#PySpec
+# PySpec
 
 **A system information viewer programmed in Python**
 
