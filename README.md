@@ -1,4 +1,5 @@
-# PySpec
+#<h1 align="center">PySpec</h1>
+
 **A system information viewer programmed in Python**
 
 <p align="center">
