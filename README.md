@@ -18,7 +18,7 @@
 
 **Python Version:** v3.90 or higher
 
-**Processor (CPU):** Intel Celeron 2nd Generation (Codenamed: Sandy Bridge) or higher
+**Processor (CPU):** Intel Celeron 2nd Generation (Codenamed: Sandy Bridge) or higher/AMD equivalent
 
 **Storage Space:** 15 KB
 
