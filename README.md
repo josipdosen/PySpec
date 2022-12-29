@@ -20,9 +20,9 @@
 
 **Processor (CPU):** Intel Celeron/AMD equivalent or higher
 
-**Storage Space:** 15 KB
+**Storage Space:** 15 KB or higher
 
-**Memory (RAM):** 75 MB
+**Memory (RAM):** 75 MB or higher
 
 ----------------------
 **Type these commands into Command Prompt or PowerShell**
