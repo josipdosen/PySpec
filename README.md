@@ -12,9 +12,9 @@
 
 **System Requirments:**
 
-**WARNING!** This program is designed for Microsoft Windows Operating Systems. Trying to run this program on a different Operating System such as Apple MacOS or Linux will result the program itself to crash and not open. 
+**WARNING!** This program is designed for Microsoft Windows Operating Systems. Trying to run this program on a different Operating System such as Apple MacOS or Linux will result the program itself to crash and not open. This Program is written only for CPUs on the x86_64 Architecture - ARM-based CPUs will not work. 
 
-**Operating System:** Windows 7 or higher
+**Operating System:** Windows 7 64-bit or higher 
 
 **Python Version:** v3.90 or higher
 
@@ -28,7 +28,6 @@
 **Type these commands into Command Prompt or PowerShell**
 
 Python modules needed to install in order for the program to work:
-
 
 pip install py-cpuinfo
 
