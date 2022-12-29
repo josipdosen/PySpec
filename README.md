@@ -14,11 +14,11 @@
 
 **WARNING!** This program is designed for Microsoft Windows Operating Systems. Trying to run this program on a different Operating System such as Apple MacOS or Linux will result the program itself to crash and not open. 
 
-**Operating System:** Windows 8.1 higher
+**Operating System:** Windows 7 or higher
 
 **Python Version:** v3.90 or higher
 
-**Processor (CPU):** Intel Celeron 2nd Generation (Codenamed: Sandy Bridge)/AMD equivalent or higher 
+**Processor (CPU):** Intel Celeron/AMD equivalent or higher
 
 **Storage Space:** 15 KB
 
