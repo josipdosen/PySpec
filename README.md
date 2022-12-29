@@ -12,7 +12,7 @@
 
 **System Requirments:**
 
-**WARNING!** This program is designed for Microsoft Windows Operating Systems. Trying to run this program on a different Operating System such as Apple MacOS or Linux will result the program itself to crash and not open. This Program is written only for CPUs on the x86_64 Architecture - ARM-based CPUs will not work. 
+**WARNING!** This program is designed for Microsoft Windows Operating Systems. Trying to run this program on a different Operating System such as Apple MacOS or Linux will result the program itself to crash and not open. This Program is written only for CPUs on the x86_64 architecture - ARM-based CPUs will not work. 
 
 **Operating System:** Windows 7 64-bit or higher 
 
