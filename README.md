@@ -1,4 +1,4 @@
-# PySpec
+# PySpec (Codenamed: Insight)
 
 **A system information viewer programmed in Python**
 
@@ -43,4 +43,4 @@ pip install tabulate
 
 ----------------------
 
-Last Updated: December 2022
+Last Updated: May 2023
